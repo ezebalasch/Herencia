@@ -3,7 +3,7 @@
 ![Data organization_Outline](https://user-images.githubusercontent.com/64716417/176054512-610e2b97-5fb6-4a5d-a0be-4df3266c047e.svg)
 
 <b>1.  </b> Tenemos una clase padre Animal junto con sus 3 clases hijas Perro, Gato, Caballo.
-La clase Animal tendrá como atributos el nombre, alimento, edad y raza del
+La clase Animal tendrá como atributos el nombre, alimento, edad  y raza del
 Animal.
 
 Crear un método en la clase Animal a través del cual cada clase hija deberá
